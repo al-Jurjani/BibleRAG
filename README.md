@@ -79,8 +79,8 @@ The RAG pipeline involves the following key steps:
 
 1.  Clone the repository:
     ```bash
-    git clone <repository-url>
-    cd <repository-name>
+    git clone https://github.com/al-Jurjani/BibleRAG
+    cd BibleRAG
     ```
 2.  Ensure you have Python 3 installed.
 3.  Install the required packages. You can typically do this by running:
